@@ -2,10 +2,10 @@
 
 A quick-start Angular project that shows how to add the Angular Listbox Component to a Angular app. This project contains code to add few of the control’s basic features, like binding data and selecting items.
 
-Refer to the following documentation to learn about the Angular Dashboard Layout component: 
+Refer to the following documentation to learn about the Angular Listbox component: 
 https://ej2.syncfusion.com/angular/documentation/list-box/getting-started
 
-Check out this online example of the Angular Dashboard Layout component:
+Check out this online example of the Angular Listbox component:
 https://ej2.syncfusion.com/angular/demos/#/bootstrap5/list-box/default
 
 ## Project prerequisites
